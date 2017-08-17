@@ -1,0 +1,130 @@
+2017-08-17 10:38:18,976 [27852] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:38:18,976 [27852] [WARNING] BitShpere.doProcess() L16:: WARN
+2017-08-17 10:38:18,977 [27852] [CRITICAL] BitShpere.doProcess() L17:: critical
+2017-08-17 10:38:52,243 [28005] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:38:52,244 [28005] [WARNING] BitShpere.doProcess() L16:: WARN
+2017-08-17 10:38:52,244 [28005] [ERROR] BitShpere.doProcess() L17:: error
+2017-08-17 10:38:52,244 [28005] [ERROR] BitShpere.doProcess() L18:: exception
+NoneType: None
+2017-08-17 10:38:52,244 [28005] [CRITICAL] BitShpere.doProcess() L19:: critical
+2017-08-17 10:39:15,037 [28079] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:39:15,037 [28079] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:39:15,038 [28079] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:39:15,038 [28079] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:39:15,038 [28079] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:39:15,038 [28079] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:39:41,352 [28161] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:39:41,352 [28161] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:39:41,352 [28161] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:39:41,353 [28161] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:39:41,353 [28161] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:39:41,353 [28161] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:53:57,055 [29190] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:53:57,056 [29190] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:53:57,056 [29190] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:53:57,056 [29190] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:53:57,057 [29190] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:53:57,057 [29190] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:54:20,693 [29280] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:54:20,693 [29280] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:54:20,693 [29280] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:54:20,693 [29280] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:54:20,693 [29280] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:54:20,694 [29280] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:54:34,438 [29340] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:54:34,438 [29340] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:54:34,439 [29340] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:54:34,439 [29340] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:54:34,439 [29340] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:54:34,439 [29340] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:55:08,072 [29420] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:55:08,072 [29420] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:55:08,073 [29420] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:55:08,073 [29420] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:55:08,073 [29420] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:55:08,073 [29420] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:55:35,473 [29494] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:55:35,474 [29494] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:55:35,474 [29494] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:55:35,474 [29494] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:55:35,474 [29494] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:55:35,474 [29494] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:56:18,967 [29582] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:56:18,967 [29582] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:56:18,967 [29582] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:56:18,967 [29582] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:56:18,967 [29582] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:56:18,968 [29582] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:56:19,221 [29582] [INFO ] Bithumb.__get__() L18:: b'{"status":"0000","data":{"BTC":{"opening_price":"4870000","closing_price":"4926000","min_price":"4612000","max_price":"4975000","average_price":"4823869.9673","units_traded":"46222.12669241","volume_1day":"46222.12669241","volume_7day":"360068.15808784","buy_price":"4926000","sell_price":"4929000"},"ETH":{"opening_price":"337700","closing_price":"345050","min_price":"327800","max_price":"351900","average_price":"341992.2411","units_traded":"579494.5967240143583653","volume_1day":"579494.5967240143583653","volume_7day":"4491994.601645474493814270","buy_price":"345000","sell_price":"345050"},"DASH":{"opening_price":"236100","closing_price":"263400","min_price":"230200","max_price":"275000","average_price":"256362.4393","units_traded":"81544.77722009","volume_1day":"81544.77722009","volume_7day":"207891.426306890000000000","buy_price":"263350","sell_price":"263400"},"LTC":{"opening_price":"50450","closing_price":"50300","min_price":"49100","max_price":"53700","average_price":"50478.5650","units_traded":"345213.74319907","volume_1day":"345213.74319907","volume_7day":"1695216.098792650000000000","buy_price":"50310","sell_price":"50390"},"ETC":{"opening_price":"15725","closing_price":"16145","min_price":"15490","max_price":"16660","average_price":"16066.3087","units_traded":"677857.508608171171684","volume_1day":"677857.508608171171684","volume_7day":"3070603.558759259783438000","buy_price":"16145","sell_price":"16155"},"XRP":{"opening_price":"185","closing_price":"183","min_price":"178","max_price":"188","average_price":"181.6687","units_traded":"169631747.48221","volume_1day":"169631747.48221","volume_7day":"852800888.554675000000000000","buy_price":"182","sell_price":"183"},"BCH":{"opening_price":"344400","closing_price":"340100","min_price":"335500","max_price":"349800","average_price":"342202.7168","units_traded":"23097.55468355","volume_1day":"23097.55468355","volume_7day":"436029.794118580000000000","buy_price":"340100","sell_price":"340800"},"date":"1502934978470"}}'
+2017-08-17 10:58:33,983 [29854] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:58:33,984 [29854] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:58:33,984 [29854] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:58:33,984 [29854] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:58:33,984 [29854] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:58:33,984 [29854] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:58:34,264 [29854] [INFO ] Bithumb.__get__() L19:: {"status":"0000","data":{"BTC":{"opening_price":"4880000","closing_price":"4927000","min_price":"4612000","max_price":"4975000","average_price":"4823875.0700","units_traded":"46184.42355798","volume_1day":"46184.42355798","volume_7day":"360068.15808784","buy_price":"4924000","sell_price":"4927000"},"ETH":{"opening_price":"337950","closing_price":"344950","min_price":"327800","max_price":"351900","average_price":"341996.4920","units_traded":"579583.7496141350177053","volume_1day":"579583.7496141350177053","volume_7day":"4491994.601645474493814270","buy_price":"344900","sell_price":"344950"},"DASH":{"opening_price":"236550","closing_price":"262900","min_price":"230200","max_price":"275000","average_price":"256368.4630","units_traded":"81583.35232009","volume_1day":"81583.35232009","volume_7day":"207891.426306890000000000","buy_price":"261000","sell_price":"263750"},"LTC":{"opening_price":"50460","closing_price":"50340","min_price":"49100","max_price":"53700","average_price":"50478.5603","units_traded":"345100.01089713","volume_1day":"345100.01089713","volume_7day":"1695216.098792650000000000","buy_price":"50350","sell_price":"50380"},"ETC":{"opening_price":"15725","closing_price":"16135","min_price":"15490","max_price":"16660","average_price":"16066.4424","units_traded":"678399.047676820489684","volume_1day":"678399.047676820489684","volume_7day":"3070603.558759259783438000","buy_price":"16130","sell_price":"16135"},"XRP":{"opening_price":"185","closing_price":"182","min_price":"178","max_price":"188","average_price":"181.6658","units_traded":"169553397.352398","volume_1day":"169553397.352398","volume_7day":"852800888.554675000000000000","buy_price":"182","sell_price":"183"},"BCH":{"opening_price":"344300","closing_price":"340200","min_price":"335500","max_price":"349800","average_price":"342199.8844","units_traded":"23092.90411189","volume_1day":"23092.90411189","volume_7day":"436029.794118580000000000","buy_price":"340100","sell_price":"340700"},"date":"1502935113512"}}
+2017-08-17 10:59:05,038 [29925] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 10:59:05,038 [29925] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 10:59:05,038 [29925] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 10:59:05,038 [29925] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 10:59:05,038 [29925] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 10:59:05,039 [29925] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 10:59:05,392 [29925] [INFO ] Bithumb.__get__() L18:: {"status":"0000","data":{"BTC":{"opening_price":"4880000","closing_price":"4927000","min_price":"4612000","max_price":"4975000","average_price":"4823871.4418","units_traded":"46179.92758835","volume_1day":"46179.92758835","volume_7day":"360068.15808784","buy_price":"4924000","sell_price":"4927000"},"ETH":{"opening_price":"337900","closing_price":"345000","min_price":"327800","max_price":"351900","average_price":"341997.1655","units_traded":"579599.7900667440687053","volume_1day":"579599.7900667440687053","volume_7day":"4491994.601645474493814270","buy_price":"345100","sell_price":"345300"},"DASH":{"opening_price":"236150","closing_price":"260150","min_price":"230200","max_price":"275000","average_price":"256372.9537","units_traded":"81594.78079838","volume_1day":"81594.78079838","volume_7day":"207891.426306890000000000","buy_price":"260150","sell_price":"262400"},"LTC":{"opening_price":"50450","closing_price":"50340","min_price":"49100","max_price":"53700","average_price":"50478.5321","units_traded":"345143.59949713","volume_1day":"345143.59949713","volume_7day":"1695216.098792650000000000","buy_price":"50340","sell_price":"50350"},"ETC":{"opening_price":"15725","closing_price":"16130","min_price":"15490","max_price":"16660","average_price":"16066.5220","units_traded":"678405.892776820489684","volume_1day":"678405.892776820489684","volume_7day":"3070603.558759259783438000","buy_price":"16125","sell_price":"16130"},"XRP":{"opening_price":"185","closing_price":"183","min_price":"178","max_price":"188","average_price":"181.6651","units_traded":"169548441.938129","volume_1day":"169548441.938129","volume_7day":"852800888.554675000000000000","buy_price":"182","sell_price":"183"},"BCH":{"opening_price":"344300","closing_price":"340100","min_price":"335500","max_price":"349800","average_price":"342199.4801","units_traded":"23093.90411189","volume_1day":"23093.90411189","volume_7day":"436029.794118580000000000","buy_price":"340200","sell_price":"340600"},"date":"1502935144630"}}
+2017-08-17 11:02:04,651 [30185] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 11:02:04,651 [30185] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 11:02:04,651 [30185] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 11:02:04,651 [30185] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 11:02:04,652 [30185] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 11:02:04,652 [30185] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 11:02:04,900 [30185] [INFO ] Bithumb.__get__() L20:: {"status":"0000","data":{"BTC":{"opening_price":"4875000","closing_price":"4929000","min_price":"4612000","max_price":"4975000","average_price":"4823950.4014","units_traded":"46225.0424869","volume_1day":"46225.0424869","volume_7day":"360226.34509200","buy_price":"4929000","sell_price":"4930000"},"ETH":{"opening_price":"337650","closing_price":"345500","min_price":"327800","max_price":"351900","average_price":"342003.0066","units_traded":"579758.6789667440687053","volume_1day":"579758.6789667440687053","volume_7day":"4490438.498507383200646470","buy_price":"345500","sell_price":"345600"},"DASH":{"opening_price":"236150","closing_price":"260700","min_price":"230200","max_price":"275000","average_price":"256377.9550","units_traded":"81593.73439838","volume_1day":"81593.73439838","volume_7day":"208001.257186480000000000","buy_price":"260900","sell_price":"263550"},"LTC":{"opening_price":"50410","closing_price":"50380","min_price":"49100","max_price":"53700","average_price":"50478.5148","units_traded":"344726.79949713","volume_1day":"344726.79949713","volume_7day":"1694516.631777460000000000","buy_price":"50340","sell_price":"50380"},"ETC":{"opening_price":"15725","closing_price":"16125","min_price":"15490","max_price":"16660","average_price":"16066.8121","units_traded":"679901.349226448281684","volume_1day":"679901.349226448281684","volume_7day":"3070581.141600820506838000","buy_price":"16100","sell_price":"16125"},"XRP":{"opening_price":"185","closing_price":"183","min_price":"178","max_price":"188","average_price":"181.6613","units_traded":"169516491.960339","volume_1day":"169516491.960339","volume_7day":"853097480.000297000000000000","buy_price":"182","sell_price":"183"},"BCH":{"opening_price":"344900","closing_price":"341200","min_price":"335500","max_price":"349800","average_price":"342195.6681","units_traded":"23106.63257489","volume_1day":"23106.63257489","volume_7day":"435807.233752530000000000","buy_price":"340400","sell_price":"341200"},"date":"1502935324176"}}
+2017-08-17 11:02:20,352 [30236] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 11:02:20,352 [30236] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 11:02:20,352 [30236] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 11:02:20,352 [30236] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 11:02:20,352 [30236] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 11:02:20,353 [30236] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 11:02:20,573 [30236] [INFO ] Bithumb.__get__() L20:: {"status":"0000","data":{"BTC":{"opening_price":"4875000","closing_price":"4929000","min_price":"4612000","max_price":"4975000","average_price":"4823963.5731","units_traded":"46221.16215978","volume_1day":"46221.16215978","volume_7day":"360226.34509200","buy_price":"4925000","sell_price":"4929000"},"ETH":{"opening_price":"337650","closing_price":"345450","min_price":"327800","max_price":"351900","average_price":"342004.1473","units_traded":"579816.8002667440687053","volume_1day":"579816.8002667440687053","volume_7day":"4490438.498507383200646470","buy_price":"345200","sell_price":"345350"},"DASH":{"opening_price":"236150","closing_price":"260700","min_price":"230200","max_price":"275000","average_price":"256377.9550","units_traded":"81593.73439838","volume_1day":"81593.73439838","volume_7day":"208001.257186480000000000","buy_price":"261100","sell_price":"263400"},"LTC":{"opening_price":"50450","closing_price":"50380","min_price":"49100","max_price":"53700","average_price":"50478.5221","units_traded":"344592.43059713","volume_1day":"344592.43059713","volume_7day":"1694516.631777460000000000","buy_price":"50340","sell_price":"50380"},"ETC":{"opening_price":"15725","closing_price":"16100","min_price":"15490","max_price":"16660","average_price":"16066.8583","units_traded":"680513.153026448281684","volume_1day":"680513.153026448281684","volume_7day":"3070581.141600820506838000","buy_price":"16100","sell_price":"16125"},"XRP":{"opening_price":"184","closing_price":"183","min_price":"178","max_price":"188","average_price":"181.6605","units_traded":"169514710.352509","volume_1day":"169514710.352509","volume_7day":"853097480.000297000000000000","buy_price":"182","sell_price":"183"},"BCH":{"opening_price":"344900","closing_price":"341200","min_price":"335500","max_price":"349800","average_price":"342195.6681","units_traded":"23106.63257489","volume_1day":"23106.63257489","volume_7day":"435807.233752530000000000","buy_price":"340400","sell_price":"341200"},"date":"1502935339860"}}
+2017-08-17 11:04:05,186 [30443] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 11:04:05,186 [30443] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 11:04:05,186 [30443] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 11:04:05,186 [30443] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 11:04:05,187 [30443] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 11:04:05,187 [30443] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 11:04:35,902 [30535] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 11:04:35,903 [30535] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 11:04:35,903 [30535] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 11:04:35,903 [30535] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 11:04:35,903 [30535] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 11:04:35,903 [30535] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 11:04:47,185 [30569] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 11:04:47,185 [30569] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 11:04:47,185 [30569] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 11:04:47,186 [30569] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 11:04:47,186 [30569] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 11:04:47,186 [30569] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 11:08:42,086 [31153] [INFO ] BitShpere.doProcess() L15:: INFO
+2017-08-17 11:08:42,087 [31153] [DEBUG] BitShpere.doProcess() L16:: DEBUG
+2017-08-17 11:08:42,087 [31153] [WARNING] BitShpere.doProcess() L17:: WARN
+2017-08-17 11:08:42,087 [31153] [ERROR] BitShpere.doProcess() L18:: error
+2017-08-17 11:08:42,087 [31153] [ERROR] BitShpere.doProcess() L19:: exception
+NoneType: None
+2017-08-17 11:08:42,088 [31153] [CRITICAL] BitShpere.doProcess() L20:: critical
+2017-08-17 11:08:56,702 [31207] [INFO ] BitShpere.doProcess() L19:: 4921000
+2017-08-17 13:18:44,189 [41195] [CRITICAL] Bithumb.getTicker() L19:: {'status': '0000', 'data': {'LTC': {'sell_price': '50100', 'units_traded': '343567.20242365', 'min_price': '49100', 'average_price': '50471.4598', 'closing_price': '50070', 'max_price': '53700', 'opening_price': '50080', 'volume_7day': '1687341.602021640000000000', 'buy_price': '50070', 'volume_1day': '343567.20242365'}, 'ETH': {'sell_price': '343700', 'units_traded': '575520.9624070577812641', 'min_price': '327800', 'average_price': '342443.9143', 'closing_price': '343750', 'max_price': '351900', 'opening_price': '334650', 'volume_7day': '4404866.812509158592090570', 'buy_price': '343500', 'volume_1day': '575520.9624070577812641'}, 'ETC': {'sell_price': '16030', 'units_traded': '691943.412071632364734', 'min_price': '15490', 'average_price': '16078.6088', 'closing_price': '16015', 'max_price': '16660', 'opening_price': '15760', 'volume_7day': '3067105.892152261189256000', 'buy_price': '16015', 'volume_1day': '691943.412071632364734'}, 'BCH': {'sell_price': '340100', 'units_traded': '22814.94280147', 'min_price': '335500', 'average_price': '341892.0086', 'closing_price': '339200', 'max_price': '349800', 'opening_price': '343500', 'volume_7day': '433613.636762990000000000', 'buy_price': '339200', 'volume_1day': '22814.94280147'}, 'BTC': {'sell_price': '4891000', 'units_traded': '45554.37918772', 'min_price': '4612000', 'average_price': '4831860.1220', 'closing_price': '4891000', 'max_price': '4975000', 'opening_price': '4784000', 'volume_7day': '361963.44622637', 'buy_price': '4890000', 'volume_1day': '45554.37918772'}, 'DASH': {'sell_price': '265450', 'units_traded': '82992.26033121', 'min_price': '230200', 'average_price': '257170.7272', 'closing_price': '265450', 'max_price': '275000', 'opening_price': '237900', 'volume_7day': '209745.862527800000000000', 'buy_price': '265400', 'volume_1day': '82992.26033121'}, 'XRP': {'sell_price': '182', 'units_traded': '166523105.848301', 'min_price': '178', 'average_price': '181.5150', 'closing_price': '181', 'max_price': '188', 'opening_price': '183', 'volume_7day': '853723120.528978000000000000', 'buy_price': '181', 'volume_1day': '166523105.848301'}, 'date': '1502943523464'}}
+2017-08-17 13:28:49,780 [42734] [CRITICAL] Bithumb.getTicker() L21:: {'status': '0000', 'data': {'ETC': {'sell_price': '16025', 'volume_7day': '3066971.010837498736256000', 'average_price': '16079.3075', 'closing_price': '16010', 'opening_price': '15730', 'min_price': '15490', 'buy_price': '16010', 'units_traded': '692288.425960987709934', 'volume_1day': '692288.425960987709934', 'max_price': '16660'}, 'BTC': {'sell_price': '4898000', 'volume_7day': '361988.08213632', 'average_price': '4832501.9322', 'closing_price': '4899000', 'opening_price': '4765000', 'min_price': '4612000', 'buy_price': '4896000', 'units_traded': '45385.91237449', 'volume_1day': '45385.91237449', 'max_price': '4975000'}, 'XRP': {'sell_price': '182', 'volume_7day': '853870000.669437000000000000', 'average_price': '181.4940', 'closing_price': '181', 'opening_price': '182', 'min_price': '178', 'buy_price': '181', 'units_traded': '164582392.611126', 'volume_1day': '164582392.611126', 'max_price': '188'}, 'date': '1502944129051', 'LTC': {'sell_price': '50140', 'volume_7day': '1686984.000979190000000000', 'average_price': '50472.0025', 'closing_price': '50140', 'opening_price': '50170', 'min_price': '49100', 'buy_price': '50070', 'units_traded': '342904.91576169', 'volume_1day': '342904.91576169', 'max_price': '53700'}, 'ETH': {'sell_price': '343500', 'volume_7day': '4397885.220150553049170570', 'average_price': '342468.9578', 'closing_price': '343450', 'opening_price': '334550', 'min_price': '327800', 'buy_price': '343400', 'units_traded': '574910.4632854802240841', 'volume_1day': '574910.4632854802240841', 'max_price': '351900'}, 'BCH': {'sell_price': '339500', 'volume_7day': '433416.784927590000000000', 'average_price': '341857.0562', 'closing_price': '338600', 'opening_price': '342500', 'min_price': '335500', 'buy_price': '338600', 'units_traded': '22949.05376757', 'volume_1day': '22949.05376757', 'max_price': '349800'}, 'DASH': {'sell_price': '265800', 'volume_7day': '209962.062599560000000000', 'average_price': '257204.7579', 'closing_price': '265950', 'opening_price': '237700', 'min_price': '230200', 'buy_price': '264950', 'units_traded': '83281.53928021', 'volume_1day': '83281.53928021', 'max_price': '275000'}}}
+2017-08-17 13:33:47,424 [43518] [CRITICAL] Bithumb.getTicker() L21:: {'status': '0000', 'data': {'BTC': {'volume_7day': '362085.97190616', 'opening_price': '4760000', 'units_traded': '45349.56583278', 'volume_1day': '45349.56583278', 'min_price': '4612000', 'closing_price': '4899000', 'average_price': '4832873.7178', 'buy_price': '4892000', 'sell_price': '4899000', 'max_price': '4975000'}, 'LTC': {'volume_7day': '1685836.502778530000000000', 'opening_price': '50180', 'units_traded': '342878.97746169', 'volume_1day': '342878.97746169', 'min_price': '49100', 'closing_price': '50080', 'average_price': '50471.9166', 'buy_price': '50070', 'sell_price': '50080', 'max_price': '53700'}, 'DASH': {'volume_7day': '210299.606237610000000000', 'opening_price': '237450', 'units_traded': '83473.39858341', 'volume_1day': '83473.39858341', 'min_price': '230200', 'closing_price': '265950', 'average_price': '257226.9037', 'buy_price': '264800', 'sell_price': '265950', 'max_price': '275000'}, 'ETH': {'volume_7day': '4388670.343174286023550570', 'opening_price': '334600', 'units_traded': '574413.2678276313205638', 'volume_1day': '574413.2678276313205638', 'min_price': '327800', 'closing_price': '343600', 'average_price': '342488.2751', 'buy_price': '343500', 'sell_price': '343550', 'max_price': '351900'}, 'XRP': {'volume_7day': '853694421.648719000000000000', 'opening_price': '182', 'units_traded': '164522104.790349', 'volume_1day': '164522104.790349', 'min_price': '178', 'closing_price': '182', 'average_price': '181.4909', 'buy_price': '181', 'sell_price': '182', 'max_price': '188'}, 'ETC': {'volume_7day': '3065770.773264985797756000', 'opening_price': '15700', 'units_traded': '691750.098160987709934', 'volume_1day': '691750.098160987709934', 'min_price': '15490', 'closing_price': '16030', 'average_price': '16079.6651', 'buy_price': '16030', 'sell_price': '16050', 'max_price': '16660'}, 'BCH': {'volume_7day': '433579.634194180000000000', 'opening_price': '343200', 'units_traded': '22880.57641838', 'volume_1day': '22880.57641838', 'min_price': '335500', 'closing_price': '338600', 'average_price': '341832.8446', 'buy_price': '338600', 'sell_price': '339000', 'max_price': '349800'}, 'date': '1502944426475'}}
